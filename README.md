@@ -6,7 +6,7 @@ This project aims to develop a deep learning model for classifying images of dif
 
 - Dataset Preparation : The project includes scripts for collecting and preprocessing a dataset of vegetable images suitable for model training.
 - Model Architecture : We employ state-of-the-art deep learning architectures, such as convolutional neural networks (CNNs), specifically designed for image classification tasks.
-- Training and Evaluation : The model is trained using transfer learning or from scratch techniques and evaluated on a test dataset to assess its performance and accuracy.
+- Training and Evaluation : The model is trained using from scratch techniques and evaluated on a test dataset to assess its performance and accuracy.
 - Deployment : Once trained, the model can be deployed for real-world applications, such as vegetable recognition in agricultural automation systems or food recognition in mobile apps.
 ## Requirements
 
