@@ -1,5 +1,5 @@
 
-# Vegetable image classification using deep learning
+# Image classification using deep learning
 
 This project aims to develop a deep learning model for classifying images of different types of vegetables. Image classification is a fundamental task in computer vision, and by training a deep learning model on a dataset of vegetable images, we can create a system capable of accurately identifying and categorizing various vegetables.
 ## Features
